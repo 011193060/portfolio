@@ -59,7 +59,7 @@
                    <td>2019</td>
                </tr>
                <tr>
-                   <td>B.S.E</td>
+                   <td>B.Sc</td>
                    <td>Computer Science Engineering</td>
                    <td>United International University</td>
                    <td>1st Semester (Running)</td>
